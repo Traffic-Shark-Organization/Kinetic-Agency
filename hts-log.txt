@@ -1,25 +1,25 @@
-HTTrack3.49-2 launched on Wed, 24 Dec 2025 15:55:41 at https://wakeapp.com
-(httrack https://wakeapp.com -O ./site-copy )
+HTTrack3.49-2 launched on Wed, 24 Dec 2025 15:55:41 at https://kineticagency.xyz
+(httrack https://kineticagency.xyz -O ./site-copy )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-15:58:34	Error: 	"Not Found" (404) at link https://wakeapp.com/services/favicon.ico (from https://wakeapp.com/services/)
-15:58:34	Warning: 	Moved Permanently for https://wakeapp.com/?p=14
-15:58:34	Warning: 	File has moved from https://wakeapp.com/?p=14 to https://wakeapp.com/services/
-15:58:34	Error: 	"Not Found" (404) at link https://wakeapp.com/cases/favicon.ico (from https://wakeapp.com/cases/)
-15:58:38	Warning: 	Moved Permanently for https://wakeapp.com/?p=20
-15:58:38	Warning: 	File has moved from https://wakeapp.com/?p=20 to https://wakeapp.com/cases/
-15:58:38	Error: 	"Not Found" (404) at link https://wakeapp.com/careers/favicon.ico (from https://wakeapp.com/careers/)
-15:58:48	Warning: 	Moved Permanently for https://wakeapp.com/?p=16
-15:58:48	Warning: 	File has moved from https://wakeapp.com/?p=16 to https://wakeapp.com/careers/
-15:58:48	Error: 	"Not Found" (404) at link https://wakeapp.com/wp-content/themes/WAKEAPP/assets/img/our-company/img-new-1.jpg (from https://wakeapp.com/careers/)
-15:58:48	Error: 	"Not Found" (404) at link https://wakeapp.com/wp-content/themes/WAKEAPP/assets/img/our-company/img-new-2.jpg (from https://wakeapp.com/careers/)
-15:58:48	Error: 	"Not Found" (404) at link https://wakeapp.com/contacts/favicon.ico (from https://wakeapp.com/contacts/)
-15:58:48	Warning: 	Moved Permanently for https://wakeapp.com/?p=18
-15:58:48	Warning: 	File has moved from https://wakeapp.com/?p=18 to https://wakeapp.com/contacts/
+15:58:34	Error: 	"Not Found" (404) at link https://kineticagency.xyz/services/favicon.ico (from https://kineticagency.xyz/services/)
+15:58:34	Warning: 	Moved Permanently for https://kineticagency.xyz/?p=14
+15:58:34	Warning: 	File has moved from https://kineticagency.xyz/?p=14 to https://kineticagency.xyz/services/
+15:58:34	Error: 	"Not Found" (404) at link https://kineticagency.xyz/cases/favicon.ico (from https://kineticagency.xyz/cases/)
+15:58:38	Warning: 	Moved Permanently for https://kineticagency.xyz/?p=20
+15:58:38	Warning: 	File has moved from https://kineticagency.xyz/?p=20 to https://kineticagency.xyz/cases/
+15:58:38	Error: 	"Not Found" (404) at link https://kineticagency.xyz/careers/favicon.ico (from https://kineticagency.xyz/careers/)
+15:58:48	Warning: 	Moved Permanently for https://kineticagency.xyz/?p=16
+15:58:48	Warning: 	File has moved from https://kineticagency.xyz/?p=16 to https://kineticagency.xyz/careers/
+15:58:48	Error: 	"Not Found" (404) at link https://kineticagency.xyz/wp-content/themes/KINETICAGENCY/assets/img/our-company/img-new-1.jpg (from https://kineticagency.xyz/careers/)
+15:58:48	Error: 	"Not Found" (404) at link https://kineticagency.xyz/wp-content/themes/KINETICAGENCY/assets/img/our-company/img-new-2.jpg (from https://kineticagency.xyz/careers/)
+15:58:48	Error: 	"Not Found" (404) at link https://kineticagency.xyz/contacts/favicon.ico (from https://kineticagency.xyz/contacts/)
+15:58:48	Warning: 	Moved Permanently for https://kineticagency.xyz/?p=18
+15:58:48	Warning: 	File has moved from https://kineticagency.xyz/?p=18 to https://kineticagency.xyz/contacts/
 
 HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 13 seconds : 195 links scanned, 184 files written (33389884 bytes overall) [31916876 bytes received at 165372 bytes/sec], 28860125 bytes transferred using HTTP compression in 173 files, ratio 94%, 27.8 requests per connection
 (6 errors, 8 warnings, 0 messages)
